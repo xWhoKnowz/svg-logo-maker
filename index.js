@@ -29,4 +29,7 @@ const userPrompts = [
         message: `What color do you want the logo to be?`,
         name: logoColor
     },
-]
+];
+
+// TODO: Create a function that writes SVG files utilizing user input.
+

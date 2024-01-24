@@ -1,1 +1,1 @@
-const circle = require(`./classes/circle`)
+const circle = require(`../classes/circle.js`)

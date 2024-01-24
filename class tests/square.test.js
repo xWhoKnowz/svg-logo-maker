@@ -1,1 +1,1 @@
-const square = require(`./classes/square`)
+const square = require(`../classes/square.js`)
