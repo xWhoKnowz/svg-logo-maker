@@ -1,6 +1,10 @@
-<svg height="200" width="200">
-  <polygon points="100,0 0,200 200,200" style="fill:blue;stroke:purple;stroke-width:1" />
+<svg version="1.1" height="200" width="200" xmlns="http://www.w3.org/2000/svg">
 
-<text x="100" y="150" font-size="60" text-anchor="middle" fill="white">SVG</text>
+  <polygon points="100,0 0,200 200,200" style="fill:blue"/>
+
+  <!-- TODO: Add Shape Outline <polygon points="100,0 0,200 200,200" style="fill:blue;stroke:purple;stroke-width:1"/> -->
+
+
+  <text x="100" y="150" font-size="60" text-anchor="middle" fill="white">SVG</text>
 
 </svg>

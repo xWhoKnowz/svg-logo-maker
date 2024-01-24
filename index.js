@@ -1,6 +1,9 @@
 // TODO: Import all other files.
-const inquirer = require(`inquirer`)
 const fs = require(`fs`)
+const inquirer = require(`inquirer`)
+const triangle = require(`./classes/triangle`)
+const circle = require(`./classes/circle`)
+const square = require(`./classes/square`)
 
 // TODO: Create Prompts for user input.
 
