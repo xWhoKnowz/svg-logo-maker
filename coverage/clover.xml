@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1706144903659" clover="3.2.0">
-  <project timestamp="1706144903660" name="All files">
+<coverage generated="1706145348045" clover="3.2.0">
+  <project timestamp="1706145348046" name="All files">
     <metrics statements="20" coveredstatements="16" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="4" elements="30" coveredelements="22" complexity="0" loc="20" ncloc="20" packages="1" files="4" classes="4"/>
     <file name="circle.js" path="C:\Program Files\Git\smu-bootcamp\class-resources\svg-logo-maker\classes\circle.js">
       <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
