@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1706144903659" clover="3.2.0">
+  <project timestamp="1706144903660" name="All files">
+    <metrics statements="20" coveredstatements="16" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="4" elements="30" coveredelements="22" complexity="0" loc="20" ncloc="20" packages="1" files="4" classes="4"/>
+    <file name="circle.js" path="C:\Program Files\Git\smu-bootcamp\class-resources\svg-logo-maker\classes\circle.js">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="shapes.js" path="C:\Program Files\Git\smu-bootcamp\class-resources\svg-logo-maker\classes\shapes.js">
+      <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="1"/>
+      <line num="3" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="9" type="stmt"/>
+      <line num="7" count="9" type="stmt"/>
+      <line num="8" count="9" type="stmt"/>
+      <line num="11" count="9" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="24" count="4" type="stmt"/>
+    </file>
+    <file name="square.js" path="C:\Program Files\Git\smu-bootcamp\class-resources\svg-logo-maker\classes\square.js">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="triangle.js" path="C:\Program Files\Git\smu-bootcamp\class-resources\svg-logo-maker\classes\triangle.js">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
